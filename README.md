@@ -1,3 +1,3 @@
 # Ch6_MotionPlanning
 
-Please check the UCS, Astar and Djikstra Jupyter notebook files
+Please check the UCS, Astar and Dijkstra Jupyter notebook files
