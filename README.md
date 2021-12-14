@@ -26,17 +26,25 @@ In order to show how various offline motion planning algorithms works, I am also
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/copellasim.png?raw=true)
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/screen_floor.png?raw=true)
 ## Simulation Output
-### Uniform Cost Search
+
+### Uniform Cost Search:
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/UCS.png?raw=true)
-### Dijkstra
+
+### Dijkstra:
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/djikstra.png?raw=true)
-### A*
+
+### A*:
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/Astar.png?raw=true)
-### PRM Planner
+
+### PRM Planner:
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/prm_points.png?raw=true)
+
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/prm_cons.png?raw=true)
+
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/prm.png?raw=true)
-### RRT
+
+### RRT:
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/RRT.png?raw=true)
-### RRT*
+
+### RRT*:
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/rrt*.png?raw=true)
