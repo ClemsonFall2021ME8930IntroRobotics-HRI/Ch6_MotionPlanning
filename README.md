@@ -24,16 +24,19 @@ This repository contains the code for various offline motion planning algorithms
 ## Simulation Environment:
 In order to show how various offline motion planning algorithms works, I am also going to use the Copellasim simulation for representing these offline motion planning.  I will be using Pioneer 3-DX as the robot in the Copellasim environment . In the simulation, a camera is added, which basically shows the whole environment as an image. The main reason for the camera usage is to visualize these offline motion planning algorithms, which is understandable by everyone. The same simulation setup is used for all offline motion planning algorithms, in order to show the difference between these algorithms. 
 ![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/copellasim.png?raw=true)
-
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/screen_floor.png?raw=true)
 ## Simulation Output
 ### Uniform Cost Search
-
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/UCS.png?raw=true)
 ### Dijkstra
-
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/djikstra.png?raw=true)
 ### A*
-
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/Astar.png?raw=true)
 ### PRM Planner
-
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/prm_points.png?raw=true)
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/prm_cons.png?raw=true)
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/prm.png?raw=true)
 ### RRT
-
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/RRT.png?raw=true)
 ### RRT*
+![alt text](https://github.com/ClemsonFall2021ME8930IntroRobotics-HRI/Ch7_MotionPlanning/blob/main/Outputimages/rrt*.png?raw=true)
