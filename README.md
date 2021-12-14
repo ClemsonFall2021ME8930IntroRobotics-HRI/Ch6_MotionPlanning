@@ -9,3 +9,30 @@ This repository contains the code for various offline motion planning algorithms
   - PRM Planner
   - RRT 
   - RRT*
+## Dependencies:
+- Opencv
+- numpy
+- queue
+- PIL
+- Coppeliasim
+
+## Pre-requisites:
+- Python programming knowledge
+- Coppeliasim knowledge
+- Opencv knowledge
+
+## Simulation Environment:
+In order to show how various offline motion planning algorithms works, I am also going to use the Copellasim simulation for representing these offline motion planning.  I will be using Pioneer 3-DX as the robot in the Copellasim environment . In the simulation, a camera is added, which basically shows the whole environment as an image. The main reason for the camera usage is to visualize these offline motion planning algorithms, which is understandable by everyone. The same simulation setup is used for all offline motion planning algorithms, in order to show the difference between these algorithms. 
+
+## Simulation Output
+### Uniform Cost Search
+
+### Dijkstra
+
+### A*
+
+### PRM Planner
+
+### RRT
+
+### RRT*
