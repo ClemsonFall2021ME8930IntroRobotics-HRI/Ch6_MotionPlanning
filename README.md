@@ -1,3 +1,5 @@
 # Ch7_MotionPlanning
 
-Please check the UCS, Astar and Dijkstra Jupyter notebook files
+Problem Statement:
+
+Finding the inverse kinematic solution of a 3-link planar manipulator. Use the found solution to write a python code and simulate in Coppeliasim.
